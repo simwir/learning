@@ -1,5 +1,5 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing man. Mauris consectetur ex nunc, id ultricies tortor cursus eu.
- Aliquam man lectus tortor, at laoreet felis ullamcorper at.
+Lorem ipsum dolor sit amet, consectetur adipiscing . Mauris consectetur ex nunc, id ultricies tortor cursus eu.
+ Aliquam  lectus tortor, at laoreet felis ullamcorper at.
  Curabitur consectetur nisi vitae lectus accumsan, nec efficitur justo tincidunt.
  Curabitur diam tortor, ullamcorper vitae fringilla ac, lacinia vel ante.
  Nullam dignissim quis mi at dignissim.
@@ -17,15 +17,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing man. Mauris consectetur ex nu
 
 Maecenas rhoncus ornare odio, vitae sodales eros facilisis vel.
  Nulla facilisi.
- Maecenas tempor quam vel man posuere, nec mattis sem laoreet.
+ Maecenas tempor quam vel  posuere, nec mattis sem laoreet.
  Maecenas rhoncus tempus sem, in accumsan nisl fermentum aliquet.
  Etiam cursus orci quis justo condimentum vulputate.
  Etiam pharetra elit vel diam blandit auctor.
  Phasellus vel leo dolor.
 
 
-Pellentesque habitant morbi tristique senectus et man et malesuada fames ac turpis egestas.
- Proin pulvinar sapien elementum man gravida, in blandit risus consectetur.
+Pellentesque habitant morbi tristique senectus et  et malesuada fames ac turpis egestas.
+ Proin pulvinar sapien elementum  gravida, in blandit risus consectetur.
  Vivamus dignissim, nisl vel tempus porta, ex mauris dignissim quam, id feugiat erat eros non nibh.
  Curabitur sodales fringilla iaculis.
  Vestibulum metus metus, rutrum at sagittis id, imperdiet at sapien.
